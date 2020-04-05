@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-sharma-m2707/precache-manifest.dfe9818015a58d1d0e6663ad834b2d64.js"
+  "/Crio-Launch-Feb-2020-sharma-m2707/precache-manifest.2238d9ea284e031969c9536063f6f294.js"
 );
 
 self.addEventListener('message', (event) => {
